@@ -1,6 +1,6 @@
 const Ad = ({size}:{size: "sm" | "md" | "xl" }) => {
   return (
-    <div className=''>Ad</div>
+    <div className=''>hello world</div>
   )
 }
 
